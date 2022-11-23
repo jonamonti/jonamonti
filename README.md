@@ -1,10 +1,10 @@
-<h2>Hi 😃, I'm Jonathan Monti! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<h2>Hi 😃, I'm Jonathan Monti!</h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 [![Linkedin: jonathan-monti](https://img.shields.io/badge/-jonathanmonti-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonathan-monti/)](https://www.linkedin.com/in/jonathan-monti/)
 ![](https://visitor-badge.glitch.me/badge?page_id=jonamonti)
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### A little more about me...  
 
 ```javascript
 var jona = {
@@ -27,7 +27,7 @@ var jona = {
 };
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+<b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
 ---
 <!--START_SECTION:waka-->
@@ -65,4 +65,4 @@ Windows                  17 hrs 5 mins       ███████████�
 ```
 <!--END_SECTION:waka-->
 
-**These Readme stats are generated using Github Action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
+**These Readme stats are generated using Github Action [awesome-readme-stats](https://github.com/jonamonti/waka-readme-stats)**
