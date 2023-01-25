@@ -17,7 +17,7 @@ var jona = {
             css: ["bootstrap"]
         },
         backEnd: {
-            js: ["node", "express", "SuiteScript"]
+            js: ["node", "express"]
         },
         databases: ["mongo", "postgreSQL"],
         misc: ["AWS S3 Buckets", "MercadoPago"]
@@ -36,7 +36,3 @@ var jona = {
 <a href="mailto:jonathanmonti@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-jonathanmonti@hotmail.com-blue?style=flat-square&logo=microsoftoutlook"></a>
 
 </p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonamonti&layout=compact)](https://github.com/jonamonti/github-readme-stats)
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jonamonti)](https://github.com/jonamonti/github-readme-stats)
