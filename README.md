@@ -22,7 +22,7 @@ var jona = {
         databases: ["mongo", "postgreSQL"],
         misc: ["AWS S3 Buckets", "MercadoPago"]
     },
-    currentProject: "Learning React Native 🤓📱" 
+    currentProject: "Learning Typescript 🤓📱" 
     otherInterests: ["reading", "sports", "travel"]
 };
 ```
